@@ -14,6 +14,9 @@ class NotWearingMaskError(Exception):
     pass
 
 
+
+
+
 '''224. Lockdown cafe
 
 Implement a Cafe class, whose instances have one attribute name. Write a visit_cafe method with one parameter, visitor of type dict. Due to the pandemic, not everyone can visit the cafe.
