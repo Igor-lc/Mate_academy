@@ -1,2 +1,2 @@
-# Mate_academy_test_task 
-Python mentor role
+# Mate_academy
+Python mentor
